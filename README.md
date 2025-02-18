@@ -22,7 +22,7 @@ The Python implementation of the PINN model used in this research can be found i
 ## 📬 **Contact**
 For any inquiries, feel free to reach out:
 📧 **Email:** [arultripathi@gmail.com](mailto:arultripathi@gmail.com)
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/arul-tripathi/)
+🔗 **LinkedIn:** [Arul Tripathi](https://www.linkedin.com/in/arul-tripathi/)
 
 ---
 📢 **If you find this work useful, feel free to ⭐ the repository and share your thoughts!** 🚀
